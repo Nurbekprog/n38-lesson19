@@ -1,0 +1,59 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+.container {
+  max-width: 1536px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+
+
+:root {
+  /* fonts */
+  --font-roboto: Roboto;
+  --font-poppins: Poppins;
+  --title: Inter;
+  --font-montserrat: Montserrat;
+  --font-proximanova: ProximaNova;
+  --font-fontawesome: FontAwesome;
+
+  /* font sizes */
+  --font-size-3xs: 10px;
+  --link-size: 16px;
+  --font-size-13xl: 32px;
+  --font-size-lg: 18px;
+  --font-size-sm: 14px;
+  --font-size-15xl: 34px;
+  --font-size-57xl: 76px;
+  --title-size: 24px;
+  --font-size-xl: 20px;
+  --font-size-3xl: 22px;
+
+  /* Colors */
+  --light-background: #fff;
+  --color-gainsboro-100: #e4e4e4;
+  --color-gainsboro-200: #dedede;
+  --color-darkslategray-100: #173a56;
+  --color-darkslategray-200: #22343d;
+  --text-color: #252b42;
+  --color-crimson: #f03e3d;
+  --color-dodgerblue: #4d8dff;
+  --color-orange: #ff9900;
+  --color-darkcyan: #02897a;
+  --second-text-color: #737373;
+  --second-text: #afafaf;
+  --color-lightsteelblue-100: #bcd0e5;
+  --color-gray: #2f281e;
+
+  /* Border radiuses */
+  --br-sm-9: 13.9px;
+  --br-9xs: 4px;
+  --br-8xs: 5px;
+  --br-5xs: 8px;
+  --br-lgi: 19px;
+}
